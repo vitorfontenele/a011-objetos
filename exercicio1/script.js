@@ -1,6 +1,6 @@
 let sacolao = [];
 
-//Frutas
+//a) Frutas
 const banana = {
   nome: "banana",
   preco: 2.99,
@@ -19,9 +19,9 @@ const morango = {
   disponibilidade: true,
 };
 
-//Adicionando frutas ao array
+//b) Adicionando frutas ao array
 sacolao.push(banana, mamao, morango);
 
-//Impressao
+//c) Impressao
 console.log(sacolao);
 
